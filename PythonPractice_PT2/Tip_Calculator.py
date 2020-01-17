@@ -20,3 +20,6 @@ if service == "bad" or "Bad":
     total_tip = .10 * bill_amount
 
 print("You should leave $%.2f " % (total_tip))
+
+# % Modulus	Divides left hand operand 
+# by right hand operand and returns remainder
