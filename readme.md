@@ -1,4 +1,4 @@
-# Python Practice Day 1-2
+# Python Practice Day 1-3
 
 ## Practice with Python
 
